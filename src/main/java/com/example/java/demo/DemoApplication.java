@@ -8,7 +8,6 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 
-		// Initial Commit
 		SpringApplication.run(DemoApplication.class, args);
 
 	}
